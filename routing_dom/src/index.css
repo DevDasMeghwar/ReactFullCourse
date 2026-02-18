@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: white;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background-color: rgb(96, 96, 77);
+}
+
+.nav div {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
